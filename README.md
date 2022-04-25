@@ -1,2 +1,1 @@
-# OSS0425
-22100549 & team number is 14 
+This is readme file.
